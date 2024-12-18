@@ -1,0 +1,7 @@
+D:\c#\source\tesst\bin\Debug\tesst.exe.config
+D:\c#\source\tesst\bin\Debug\tesst.exe
+D:\c#\source\tesst\bin\Debug\tesst.pdb
+D:\c#\source\tesst\obj\Debug\tesst.csproj.AssemblyReference.cache
+D:\c#\source\tesst\obj\Debug\tesst.csproj.CoreCompileInputs.cache
+D:\c#\source\tesst\obj\Debug\tesst.exe
+D:\c#\source\tesst\obj\Debug\tesst.pdb
