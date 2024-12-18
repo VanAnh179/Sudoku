@@ -54,6 +54,6 @@ public class Grid : Selectable, IPointerClickHandler
         FindObjectOfType<SudokuGrid>().DisplaySelectedValue(num_);
 
         // đổi màu nền của ô để hiển thị rằng nó đã được chọn
-        GetComponent<Image>().color = Color.yellow;
+        GetComponent<Image>().color = Color.white;
     }
 }

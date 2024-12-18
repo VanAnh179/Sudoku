@@ -75,6 +75,8 @@ public class SudokuGrid : MonoBehaviour
         }
     }
 
+
+
     //chọn ngẫu nhiên một bản đồ Sudoku từ danh sách được lưu trữ trong SudokuData
     private void SetGridNum(string map)
     {
